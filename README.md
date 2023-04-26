@@ -1,2 +1,3 @@
-just a note for future me:
-    you should run/host the .php file rather than just the .html file and telling apache to run .html as .php
+idk what i'm doing. part (most) of this is written by chatGPT.
+
+good luck to anyone trying to make sense of this
