@@ -11,7 +11,7 @@ function updateDoorStatus(doorPosition) {
   } else if (doorPosition === 'closed') {
     statusText = 'Closed';
   } else {
-    statusText = 'Partially Open';
+    statusText = 'In motion';
   }
   doorStatus.innerText = statusText;
 }
